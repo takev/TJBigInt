@@ -15,7 +15,6 @@
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 import Foundation
-import TJBigIntC
 
 public protocol PowerOfTwo {
     // Count the number bits that are set to '1'.

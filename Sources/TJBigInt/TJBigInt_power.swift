@@ -1,6 +1,5 @@
-//
-// Bronze - A standard library for Swift.
-// Copyright (C) 2015-2016  Tjienta Vara
+// TJBigInt - A Swift package for working with large integers.
+// Copyright (C) 2015-2017  Tjienta Vara
 //
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by

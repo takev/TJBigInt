@@ -1,3 +1,5 @@
 # TJBigInt
 
-A description of this package.
+A Swift package for handeling big integer calculations.
+It is designed to do diffie-hellman key exchange algorithm.
+
